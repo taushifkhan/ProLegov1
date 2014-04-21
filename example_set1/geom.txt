@@ -1,0 +1,73 @@
+Helix Number 0
+
+RMS deviation from best plane: 0.004442
+L, M, and N of the best plane: 0.570221, 0.765332, 0.298519
+Radius of the best circle: 91.911727
+Centre of the best circle: -67.409967, -2226.254041
+RMS deviation from the best circle: 0.108069
+Slope of the best line: -0.526884
+Intercept of the best line: 14.666066
+RMS deviation from best line: 0.168004
+Square of linear correlation coefficient: 0.996589
+Ratio rmsdl/rmsdc: 1.554594
+
+Helix Number 1
+
+RMS deviation from best plane: 0.003337
+L, M, and N of the best plane: 0.974991, 0.221388, 0.019476
+Radius of the best circle: 39.402958
+Centre of the best circle: -25.231431, -888.601970
+RMS deviation from the best circle: 0.151104
+Slope of the best line: 0.172266
+Intercept of the best line: 15.231137
+RMS deviation from best line: 0.339429
+Square of linear correlation coefficient: 0.890408
+Ratio rmsdl/rmsdc: 2.246330
+
+Helix Number 2
+
+Helix 2 is less than 9 residues and cannot undergo accurate line/curve fitting
+
+Helix Number 3
+
+RMS deviation from best plane: 0.013068
+L, M, and N of the best plane: 0.427225, 0.525401, -0.735821
+Radius of the best circle: 99.918040
+Centre of the best circle: 58.858872, -3665.343238
+RMS deviation from the best circle: 0.086984
+Slope of the best line: -0.957152
+Intercept of the best line: -27.684764
+RMS deviation from best line: 0.547780
+Square of linear correlation coefficient: 0.993157
+Ratio rmsdl/rmsdc: 6.297460
+
+Helix Number 4
+
+Helix 4 is less than 9 residues and cannot undergo accurate line/curve fitting
+
+Helix Number 5
+
+RMS deviation from best plane: 0.002956
+L, M, and N of the best plane: 0.316169, 0.806086, 0.500263
+Radius of the best circle: 123.251779
+Centre of the best circle: 74.780419, -1579.155649
+RMS deviation from the best circle: 0.181203
+Slope of the best line: 1.389541
+Intercept of the best line: -11.403839
+RMS deviation from best line: 0.144459
+Square of linear correlation coefficient: 0.999422
+Ratio rmsdl/rmsdc: 0.797224
+
+Helix Number 6
+
+RMS deviation from best plane: 0.006040
+L, M, and N of the best plane: -0.471157, 0.630169, 0.617170
+Radius of the best circle: 83.410136
+Centre of the best circle: -9.847931, 2511.582452
+RMS deviation from the best circle: 0.083857
+Slope of the best line: 2.881435
+Intercept of the best line: -35.519134
+RMS deviation from best line: 0.981120
+Square of linear correlation coefficient: 0.982452
+Ratio rmsdl/rmsdc: 11.699919
+

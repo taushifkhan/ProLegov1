@@ -1,0 +1,400 @@
+Helix Number 0
+
+unit local axis 0: X -0.025752, Y -0.696097, Z -0.717486
+helix origin 0: X 20.299660, Y 29.191219, Z 63.448536
+helix origin 1: X 20.260896, Y 28.240756, Z 62.527783
+
+unit local axis 1: X 0.003118, Y -0.752493, Z -0.658593
+helix origin 1: X 20.371493, Y 28.266820, Z 62.498526
+helix origin 2: X 20.469415, Y 27.103452, Z 61.501496
+
+unit local axis 2: X 0.027599, Y -0.748813, Z -0.662207
+helix origin 2: X 20.484483, Y 27.056242, Z 61.555508
+helix origin 3: X 20.471922, Y 25.941774, Z 60.585747
+
+unit local axis 3: X 0.027773, Y -0.734800, Z -0.677715
+helix origin 3: X 20.489316, Y 25.942035, Z 60.586177
+helix origin 4: X 20.569825, Y 24.776648, Z 59.607508
+
+unit local axis 4: X -0.016900, Y -0.728726, Z -0.684597
+helix origin 4: X 20.550157, Y 24.711329, Z 59.677523
+helix origin 5: X 20.520440, Y 23.676898, Z 58.710652
+
+unit local axis 5: X -0.037463, Y -0.769151, Z -0.637968
+helix origin 5: X 20.606991, Y 23.656031, Z 58.730728
+helix origin 6: X 20.543188, Y 22.443079, Z 57.741293
+
+unit local axis 6: X 0.003149, Y -0.783228, Z -0.621726
+helix origin 6: X 20.573368, Y 22.478639, Z 57.696649
+helix origin 7: X 20.571586, Y 21.319748, Z 56.805477
+
+unit local axis 7: X 0.021704, Y -0.766842, Z -0.641469
+helix origin 7: X 20.528141, Y 21.339181, Z 56.780775
+helix origin 8: X 20.594855, Y 20.140520, Z 55.824938
+
+unit local axis 8: X -0.004302, Y -0.750066, Z -0.661349
+helix origin 8: X 20.516784, Y 20.089146, Z 55.883712
+helix origin 9: X 20.496059, Y 19.018715, Z 54.908719
+
+unit local axis 9: X -0.033616, Y -0.765729, Z -0.642284
+helix origin 9: X 20.569360, Y 18.960844, Z 54.973876
+helix origin 10: X 20.492439, Y 17.731743, Z 54.048363
+
+unit local axis 10: X -0.022200, Y -0.777949, Z -0.627935
+helix origin 10: X 20.497412, Y 17.733552, Z 54.045947
+helix origin 11: X 20.478345, Y 16.563484, Z 53.124509
+
+unit local axis 11: X -0.000551, Y -0.772775, Z -0.634680
+helix origin 11: X 20.489069, Y 16.546137, Z 53.145622
+helix origin 12: X 20.442813, Y 15.302892, Z 52.230543
+
+unit local axis 12: X -0.013738, Y -0.738116, Z -0.674534
+helix origin 12: X 20.299693, Y 15.280263, Z 52.258221
+helix origin 13: X 20.244608, Y 14.245180, Z 51.301256
+
+unit local axis 13: X -0.033017, Y -0.740548, Z -0.671192
+helix origin 13: X 20.259857, Y 14.196735, Z 51.353956
+helix origin 14: X 20.145308, Y 13.043196, Z 50.458135
+
+unit local axis 14: X -0.038185, Y -0.708638, Z -0.704538
+helix origin 14: X 19.977672, Y 13.034587, Z 50.475881
+helix origin 15: X 19.930671, Y 11.956189, Z 49.343688
+
+unit local axis 15: X -0.036102, Y -0.708863, Z -0.704422
+helix origin 15: X 19.927026, Y 11.934021, Z 49.366182
+helix origin 16: X 19.828750, Y 10.831080, Z 48.254850
+
+unit local axis 16: X -0.024052, Y -0.681785, Z -0.731157
+helix origin 16: X 19.785457, Y 10.841844, Z 48.246238
+helix origin 17: X 19.750034, Y 9.830941, Z 47.168048
+
+unit local axis 17: X -0.013086, Y -0.685905, Z -0.727574
+helix origin 17: X 19.770646, Y 9.860913, Z 47.139423
+helix origin 18: X 19.784149, Y 8.854509, Z 46.094447
+
+unit local axis 18: X -0.002626, Y -0.674695, Z -0.738092
+helix origin 18: X 19.790002, Y 8.851558, Z 46.097123
+helix origin 19: X 19.839010, Y 7.785299, Z 45.048075
+
+Bending angle between axis 0 and axis 3: 4.418639 degrees
+Bending angle between axis 3 and axis 6: 4.471092 degrees
+Bending angle between axis 6 and axis 9: 2.613618 degrees
+Bending angle between axis 9 and axis 12: 2.686244 degrees
+Bending angle between axis 12 and axis 15: 2.717559 degrees
+Bending angle between axis 15 and axis 18: 3.352043 degrees
+
+Maximum bending angle: 4.471092 degrees
+
+Helix Number 1
+
+unit local axis 0: X -0.289322, Y 0.472844, Z 0.832293
+helix origin 0: X 11.563608, Y 3.576999, Z 45.611073
+helix origin 1: X 11.163240, Y 4.223273, Z 46.775298
+
+unit local axis 1: X -0.265590, Y 0.496139, Z 0.826625
+helix origin 1: X 11.195601, Y 4.196714, Z 46.801635
+helix origin 2: X 10.788181, Y 4.939043, Z 48.001654
+
+unit local axis 2: X -0.268531, Y 0.497814, Z 0.824665
+helix origin 2: X 10.750207, Y 4.891489, Z 48.017995
+helix origin 3: X 10.381984, Y 5.580667, Z 49.273723
+
+unit local axis 3: X -0.276836, Y 0.485492, Z 0.829253
+helix origin 3: X 10.360671, Y 5.590287, Z 49.260976
+helix origin 4: X 9.879525, Y 6.313585, Z 50.503484
+
+unit local axis 4: X -0.280076, Y 0.486561, Z 0.827536
+helix origin 4: X 9.846856, Y 6.253533, Z 50.527735
+helix origin 5: X 9.457876, Y 6.960074, Z 51.800484
+
+unit local axis 5: X -0.283853, Y 0.475375, Z 0.832734
+helix origin 5: X 9.435231, Y 6.963282, Z 51.790934
+helix origin 6: X 8.990603, Y 7.640890, Z 53.026459
+
+unit local axis 6: X -0.289524, Y 0.475241, Z 0.830856
+helix origin 6: X 8.985512, Y 7.606649, Z 53.044271
+helix origin 7: X 8.586117, Y 8.273238, Z 54.318194
+
+unit local axis 7: X -0.289640, Y 0.465995, Z 0.836036
+helix origin 7: X 8.598528, Y 8.274954, Z 54.321537
+helix origin 8: X 8.128577, Y 8.958967, Z 55.590787
+
+unit local axis 8: X -0.280054, Y 0.468259, Z 0.838035
+helix origin 8: X 8.137012, Y 8.883567, Z 55.635737
+helix origin 9: X 7.770114, Y 9.584952, Z 56.957811
+
+unit local axis 9: X -0.272807, Y 0.446918, Z 0.851963
+helix origin 9: X 7.722612, Y 9.565540, Z 56.952784
+helix origin 10: X 7.272216, Y 10.137634, Z 58.246610
+
+unit local axis 10: X -0.236650, Y 0.466669, Z 0.852183
+helix origin 10: X 7.338434, Y 10.015462, Z 58.331902
+helix origin 11: X 7.060331, Y 10.662021, Z 59.521807
+
+unit local axis 11: X -0.035851, Y 0.111704, Z 0.993095
+helix origin 11: X 6.491231, Y 10.346043, Z 59.536804
+helix origin 12: X 6.384566, Y 10.592740, Z 61.831097
+
+unit local axis 12: X -0.198826, Y -0.096965, Z 0.975226
+helix origin 12: X 6.120577, Y 10.801750, Z 61.798057
+helix origin 13: X 5.827888, Y 10.696821, Z 63.562417
+
+unit local axis 13: X -0.078303, Y -0.155926, Z 0.984660
+helix origin 13: X 5.758595, Y 10.550590, Z 63.533751
+helix origin 14: X 5.647481, Y 10.342122, Z 65.006564
+
+unit local axis 14: X -0.077426, Y -0.153131, Z 0.985168
+helix origin 14: X 5.609064, Y 10.354370, Z 65.005448
+helix origin 15: X 5.459510, Y 10.110969, Z 66.462832
+
+unit local axis 15: X -0.060417, Y -0.155741, Z 0.985949
+helix origin 15: X 5.463027, Y 10.135098, Z 66.466859
+helix origin 16: X 5.286273, Y 9.935435, Z 67.969075
+
+unit local axis 16: X -0.060421, Y -0.156358, Z 0.985851
+helix origin 16: X 5.290037, Y 9.935374, Z 67.969296
+helix origin 17: X 5.171578, Y 9.738432, Z 69.474063
+
+unit local axis 17: X 0.011804, Y -0.147399, Z 0.989007
+helix origin 17: X 5.193712, Y 9.568977, Z 69.448544
+helix origin 18: X 5.285248, Y 9.309327, Z 70.772598
+
+Bending angle between axis 0 and axis 3: 1.033131 degrees
+Bending angle between axis 3 and axis 6: 0.939093 degrees
+Bending angle between axis 6 and axis 9: 2.239185 degrees
+Bending angle between axis 9 and axis 12: 32.673343 degrees
+Bending angle between axis 12 and axis 15: 8.645760 degrees
+
+Maximum bending angle: 32.673343 degrees
+
+Helix Number 2
+
+unit local axis 0: X 0.268642, Y -0.681817, Z -0.680409
+helix origin 0: X 11.588334, Y 6.249820, Z 70.810139
+helix origin 1: X 11.952780, Y 5.269794, Z 69.907605
+
+unit local axis 1: X 0.179816, Y -0.654528, Z -0.734342
+helix origin 1: X 11.893893, Y 5.190066, Z 69.964249
+helix origin 2: X 12.239497, Y 4.131997, Z 68.784450
+
+unit local axis 2: X 0.126455, Y -0.702771, Z -0.700087
+helix origin 2: X 12.304245, Y 4.095032, Z 68.833252
+helix origin 3: X 12.495881, Y 3.130020, Z 67.783227
+
+unit local axis 3: X 0.122708, Y -0.699753, Z -0.703768
+helix origin 3: X 12.526828, Y 3.150359, Z 67.768400
+helix origin 4: X 12.727789, Y 2.148951, Z 66.776071
+
+unit local axis 4: X 0.041767, Y -0.733412, Z -0.678500
+helix origin 4: X 12.771275, Y 2.092332, Z 66.839949
+helix origin 5: X 12.858378, Y 0.948420, Z 65.692309
+
+unit local axis 5: X 0.053116, Y -0.764172, Z -0.642822
+helix origin 5: X 12.957120, Y 0.967713, Z 65.677533
+helix origin 6: X 12.994749, Y -0.193491, Z 64.707639
+
+unit local axis 6: X 0.017444, Y -0.766754, Z -0.641704
+helix origin 6: X 12.996552, Y -0.209890, Z 64.727282
+helix origin 7: X 13.004781, Y -1.340106, Z 63.846151
+
+Bending angle between axis 0 and axis 3: 8.537830 degrees
+Bending angle between axis 3 and axis 6: 7.991296 degrees
+
+Maximum bending angle: 8.537830 degrees
+
+Helix Number 3
+
+unit local axis 0: X 0.418720, Y 0.716644, Z 0.557759
+helix origin 0: X 12.926871, Y -1.733897, Z 52.524811
+helix origin 1: X 13.521379, Y -0.730501, Z 53.342981
+
+unit local axis 1: X 0.468319, Y 0.702069, Z 0.536448
+helix origin 1: X 13.534152, Y -0.795927, Z 53.417456
+helix origin 2: X 14.295825, Y 0.243955, Z 54.290325
+
+unit local axis 2: X 0.478575, Y 0.672899, Z 0.564068
+helix origin 2: X 14.253076, Y 0.253024, Z 54.315776
+helix origin 3: X 14.901162, Y 1.203540, Z 55.225117
+
+unit local axis 3: X 0.469651, Y 0.673858, Z 0.570388
+helix origin 3: X 14.903029, Y 1.199487, Z 55.228368
+helix origin 4: X 15.529769, Y 2.248814, Z 56.083295
+
+unit local axis 4: X 0.475157, Y 0.664386, Z 0.576903
+helix origin 4: X 15.475405, Y 2.248367, Z 56.128585
+helix origin 5: X 16.199118, Y 3.248593, Z 57.011674
+
+unit local axis 5: X 0.458235, Y 0.660587, Z 0.594681
+helix origin 5: X 16.175425, Y 3.279405, Z 56.995704
+helix origin 6: X 16.811054, Y 4.265201, Z 57.869255
+
+unit local axis 6: X 0.449603, Y 0.669653, Z 0.591119
+helix origin 6: X 16.796618, Y 4.258675, Z 57.887627
+helix origin 7: X 17.492860, Y 5.253570, Z 58.755250
+
+unit local axis 7: X 0.459032, Y 0.676140, Z 0.576302
+helix origin 7: X 17.468315, Y 5.275400, Z 58.749188
+helix origin 8: X 18.122578, Y 6.229226, Z 59.622893
+
+unit local axis 8: X 0.456757, Y 0.677833, Z 0.576121
+helix origin 8: X 18.154239, Y 6.264635, Z 59.556131
+helix origin 9: X 18.748238, Y 7.293955, Z 60.377523
+
+unit local axis 9: X 0.467726, Y 0.694992, Z 0.546094
+helix origin 9: X 18.790889, Y 7.265696, Z 60.376955
+helix origin 10: X 19.470964, Y 8.357616, Z 61.203155
+
+unit local axis 10: X 0.503038, Y 0.673335, Z 0.541824
+helix origin 10: X 19.455063, Y 8.319418, Z 61.265387
+helix origin 11: X 20.163328, Y 9.325771, Z 61.992717
+
+unit local axis 11: X 0.498738, Y 0.657894, Z 0.564301
+helix origin 11: X 20.076105, Y 9.376384, Z 62.010798
+helix origin 12: X 20.827253, Y 10.342411, Z 62.865055
+
+unit local axis 12: X 0.521635, Y 0.646793, Z 0.556377
+helix origin 12: X 20.825905, Y 10.320785, Z 62.891459
+helix origin 13: X 21.643088, Y 11.312780, Z 63.763262
+
+unit local axis 13: X 0.522384, Y 0.641443, Z 0.561841
+helix origin 13: X 21.632610, Y 11.316697, Z 63.768533
+helix origin 14: X 22.436698, Y 12.288795, Z 64.644477
+
+unit local axis 14: X 0.549741, Y 0.634161, Z 0.543714
+helix origin 14: X 22.458410, Y 12.217229, Z 64.705995
+helix origin 15: X 23.320776, Y 13.092088, Z 65.496474
+
+unit local axis 15: X 0.523528, Y 0.694494, Z 0.493554
+helix origin 15: X 23.489381, Y 13.057323, Z 65.366548
+helix origin 16: X 24.197049, Y 13.951998, Z 65.894898
+
+Bending angle between axis 0 and axis 3: 3.880072 degrees
+Bending angle between axis 3 and axis 6: 1.669899 degrees
+Bending angle between axis 6 and axis 9: 3.137457 degrees
+Bending angle between axis 9 and axis 12: 4.185875 degrees
+Bending angle between axis 12 and axis 15: 4.521990 degrees
+
+Maximum bending angle: 4.521990 degrees
+
+Helix Number 4
+
+unit local axis 0: X -0.453594, Y 0.168734, Z 0.875089
+helix origin 0: X 20.949270, Y 6.110933, Z 72.349033
+helix origin 1: X 20.365820, Y 6.489101, Z 73.516432
+
+unit local axis 1: X -0.372896, Y 0.217464, Z 0.902030
+helix origin 1: X 20.427631, Y 6.354701, Z 73.574386
+helix origin 2: X 19.963825, Y 6.732298, Z 75.051904
+
+unit local axis 2: X -0.393730, Y 0.246365, Z 0.885596
+helix origin 2: X 20.000226, Y 6.762900, Z 75.059574
+helix origin 3: X 19.367817, Y 7.123110, Z 76.565130
+
+unit local axis 3: X -0.370059, Y 0.275749, Z 0.887141
+helix origin 3: X 19.416540, Y 7.082121, Z 76.598194
+helix origin 4: X 18.837572, Y 7.528526, Z 78.007699
+
+Bending angle between axis 0 and axis 3: 7.815023 degrees
+
+Maximum bending angle: 7.815023 degrees
+
+Helix Number 5
+
+unit local axis 0: X -0.099476, Y 0.176802, Z -0.979207
+helix origin 0: X 15.143725, Y 15.071384, Z 79.571655
+helix origin 1: X 15.037813, Y 15.377658, Z 78.151480
+
+unit local axis 1: X -0.094282, Y 0.162328, Z -0.982222
+helix origin 1: X 15.080487, Y 15.393288, Z 78.149967
+helix origin 2: X 14.951641, Y 15.633972, Z 76.684466
+
+unit local axis 2: X -0.098632, Y 0.161645, Z -0.981908
+helix origin 2: X 14.951003, Y 15.638401, Z 76.685259
+helix origin 3: X 14.827718, Y 15.895100, Z 75.211774
+
+unit local axis 3: X -0.097662, Y 0.181205, Z -0.978584
+helix origin 3: X 14.807493, Y 15.895740, Z 75.213911
+helix origin 4: X 14.666972, Y 16.182018, Z 73.702023
+
+unit local axis 4: X -0.152935, Y 0.193550, Z -0.969097
+helix origin 4: X 14.653399, Y 16.127902, Z 73.693357
+helix origin 5: X 14.469361, Y 16.416682, Z 72.320605
+
+unit local axis 5: X -0.184459, Y 0.120000, Z -0.975487
+helix origin 5: X 14.557424, Y 16.380769, Z 72.299535
+helix origin 6: X 14.268220, Y 16.601998, Z 70.750051
+
+unit local axis 6: X -0.149733, Y 0.095622, Z -0.984092
+helix origin 6: X 14.298838, Y 16.645758, Z 70.749645
+helix origin 7: X 14.061352, Y 16.793538, Z 69.280716
+
+unit local axis 7: X -0.162292, Y 0.083272, Z -0.983223
+helix origin 7: X 14.094589, Y 16.759149, Z 69.272318
+helix origin 8: X 13.845286, Y 16.836364, Z 67.839533
+
+unit local axis 8: X -0.138726, Y 0.049584, Z -0.989089
+helix origin 8: X 13.896434, Y 16.873073, Z 67.834199
+helix origin 9: X 13.705039, Y 16.918520, Z 66.295183
+
+unit local axis 9: X -0.096352, Y 0.069199, Z -0.992939
+helix origin 9: X 13.677604, Y 16.979138, Z 66.302070
+helix origin 10: X 13.559709, Y 17.073388, Z 64.864309
+
+unit local axis 10: X -0.118000, Y 0.148285, Z -0.981880
+helix origin 10: X 13.494794, Y 17.054919, Z 64.869321
+helix origin 11: X 13.371510, Y 17.246542, Z 63.252920
+
+unit local axis 11: X -0.237022, Y 0.133459, Z -0.962294
+helix origin 11: X 13.386382, Y 17.094450, Z 63.228164
+helix origin 12: X 13.132937, Y 17.323024, Z 61.930502
+
+unit local axis 12: X -0.234915, Y 0.016823, Z -0.971870
+helix origin 12: X 13.332125, Y 17.330565, Z 61.882486
+helix origin 13: X 12.964104, Y 17.329190, Z 60.319010
+
+unit local axis 13: X -0.219739, Y 0.013876, Z -0.975460
+helix origin 13: X 12.968921, Y 17.354867, Z 60.318290
+helix origin 14: X 12.643352, Y 17.355190, Z 58.780399
+
+unit local axis 14: X -0.248158, Y -0.057815, Z -0.966993
+helix origin 14: X 12.728289, Y 17.319199, Z 58.760754
+helix origin 15: X 12.404783, Y 17.214305, Z 57.404468
+
+unit local axis 15: X -0.204656, Y -0.084039, Z -0.975220
+helix origin 15: X 12.432763, Y 17.263903, Z 57.394322
+helix origin 16: X 12.156071, Y 17.142555, Z 55.907795
+
+unit local axis 16: X -0.204467, Y -0.083811, Z -0.975279
+helix origin 16: X 12.149259, Y 17.148447, Z 55.908717
+helix origin 17: X 11.847652, Y 17.064311, Z 54.424910
+
+unit local axis 17: X -0.210806, Y -0.076133, Z -0.974559
+helix origin 17: X 11.858440, Y 17.073505, Z 54.421859
+helix origin 18: X 11.561560, Y 16.964681, Z 52.915881
+
+unit local axis 18: X -0.272253, Y -0.114742, Z -0.955360
+helix origin 18: X 11.619496, Y 16.869923, Z 52.910751
+helix origin 19: X 11.245033, Y 16.742713, Z 51.607840
+
+unit local axis 19: X -0.217586, Y -0.219785, Z -0.950973
+helix origin 19: X 11.419651, Y 16.831067, Z 51.547466
+helix origin 20: X 11.119824, Y 16.451128, Z 49.987169
+
+unit local axis 20: X -0.113094, Y -0.193364, Z -0.974587
+helix origin 20: X 11.083691, Y 16.575691, Z 49.966648
+helix origin 21: X 10.953895, Y 16.325577, Z 48.604142
+
+unit local axis 21: X -0.115523, Y -0.170346, Z -0.978589
+helix origin 21: X 10.991845, Y 16.328708, Z 48.599117
+helix origin 22: X 10.958981, Y 16.019812, Z 47.180145
+
+Bending angle between axis 0 and axis 3: 0.275205 degrees
+Bending angle between axis 3 and axis 6: 5.750924 degrees
+Bending angle between axis 6 and axis 9: 3.450638 degrees
+Bending angle between axis 9 and axis 12: 8.580740 degrees
+Bending angle between axis 12 and axis 15: 6.039310 degrees
+Bending angle between axis 15 and axis 18: 4.404472 degrees
+Bending angle between axis 18 and axis 21: 9.632240 degrees
+
+Maximum bending angle: 9.632240 degrees
+

@@ -1,0 +1,79 @@
+Interhelical Contact Residues
+
+Helix 0 residue: 8.00
+Helix 3 residue: 77.00
+Helix 3 residue: 70.00
+Helix 3 residue: 73.00
+Helix 3 residue: 74.00
+Helix 0 residue: 11.00
+Helix 0 residue: 12.00
+Helix 0 residue: 15.00
+Helix 3 residue: 66.00
+Helix 3 residue: 67.00
+Helix 0 residue: 18.00
+Helix 0 first residue: 8.00	Helix 0 last residue: 18.00
+Helix 3 first residue: 66.00	Helix 3 last residue: 77.00
+
+Interhelical Contact Residues
+
+Helix 1 residue: 25.00
+Helix 5 residue: 112.00
+Helix 5 residue: 116.00
+Helix 1 residue: 28.00
+Helix 1 residue: 29.00
+Helix 5 residue: 108.00
+Helix 5 residue: 109.00
+Helix 5 residue: 105.00
+Helix 1 residue: 32.00
+Helix 5 residue: 111.00
+Helix 1 residue: 33.00
+Helix 1 residue: 36.00
+Helix 5 residue: 107.00
+Helix 5 residue: 104.00
+Helix 1 first residue: 25.00	Helix 1 last residue: 36.00
+Helix 5 first residue: 104.00	Helix 5 last residue: 116.00
+
+Interhelical Contact Residues
+
+Helix 3 residue: 68.00
+Helix 6 residue: 136.00
+Helix 3 residue: 69.00
+Helix 6 residue: 132.00
+Helix 6 residue: 129.00
+Helix 6 residue: 133.00
+Helix 3 residue: 72.00
+Helix 3 residue: 73.00
+Helix 3 residue: 76.00
+Helix 6 residue: 135.00
+Helix 3 first residue: 68.00	Helix 3 last residue: 76.00
+Helix 6 first residue: 129.00	Helix 6 last residue: 136.00
+
+Interhelical Contact Residues
+
+Helix 4 residue: 88.00
+Helix 6 residue: 140.00
+Helix 4 residue: 89.00
+Helix 4 residue: 92.00
+Helix 4 first residue: 88.00	Helix 4 last residue: 92.00
+Helix 6 first residue: 140.00	Helix 6 last residue: 140.00
+
+Interhelical Contact Residues
+
+Helix 5 residue: 99.00
+Helix 6 residue: 141.00
+Helix 5 residue: 102.00
+Helix 6 residue: 133.00
+Helix 6 residue: 137.00
+Helix 5 residue: 105.00
+Helix 5 residue: 106.00
+Helix 6 residue: 134.00
+Helix 6 residue: 130.00
+Helix 5 residue: 109.00
+Helix 6 residue: 129.00
+Helix 5 residue: 110.00
+Helix 5 residue: 113.00
+Helix 5 residue: 117.00
+Helix 6 residue: 125.00
+Helix 5 first residue: 99.00	Helix 5 last residue: 117.00
+Helix 6 first residue: 125.00	Helix 6 last residue: 141.00
+

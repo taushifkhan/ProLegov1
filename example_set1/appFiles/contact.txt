@@ -1,0 +1,54 @@
+Interhelical Contact Residues
+
+Helix 0 residue: 6.00
+Helix 5 residue: 135.00
+Helix 0 residue: 7.00
+Helix 5 residue: 142.00
+Helix 0 residue: 10.00
+Helix 5 residue: 139.00
+Helix 5 residue: 138.00
+Helix 0 residue: 11.00
+Helix 5 residue: 146.00
+Helix 0 residue: 13.00
+Helix 0 residue: 14.00
+Helix 5 residue: 143.00
+Helix 0 residue: 15.00
+Helix 5 residue: 150.00
+Helix 0 residue: 18.00
+Helix 0 residue: 19.00
+Helix 0 residue: 22.00
+Helix 0 first residue: 6.00	Helix 0 last residue: 22.00
+Helix 5 first residue: 135.00	Helix 5 last residue: 150.00
+
+Interhelical Contact Residues
+
+Helix 1 residue: 35.00
+Helix 5 residue: 143.00
+Helix 1 residue: 36.00
+Helix 5 residue: 147.00
+Helix 1 residue: 39.00
+Helix 1 residue: 40.00
+Helix 5 residue: 144.00
+Helix 1 residue: 42.00
+Helix 5 residue: 140.00
+Helix 1 residue: 43.00
+Helix 5 residue: 137.00
+Helix 1 residue: 46.00
+Helix 5 residue: 133.00
+Helix 1 first residue: 35.00	Helix 1 last residue: 46.00
+Helix 5 first residue: 133.00	Helix 5 last residue: 147.00
+
+Interhelical Contact Residues
+
+Helix 3 residue: 90.00
+Helix 5 residue: 140.00
+Helix 3 residue: 94.00
+Helix 5 residue: 136.00
+Helix 5 residue: 139.00
+Helix 3 residue: 97.00
+Helix 5 residue: 135.00
+Helix 3 residue: 98.00
+Helix 5 residue: 132.00
+Helix 3 first residue: 90.00	Helix 3 last residue: 98.00
+Helix 5 first residue: 132.00	Helix 5 last residue: 140.00
+
