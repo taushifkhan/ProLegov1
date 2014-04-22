@@ -107,6 +107,7 @@ print len(dictPDB.keys())
 c= 0
 for k in dictPDB.keys():
     iH=pattern(k,dictPDB[k])
+    #import ipdb; ipdb.set_trace() # BREAKPOINT
     print iH,k,dictPDB[k],PDBintHgeom[k]
     pat,sepPat = modiString(iH)
     sepPat = ''.join(sepPat)
