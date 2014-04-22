@@ -2,6 +2,7 @@
 import sys,os
 import numpy as N
 from collections import Counter
+import re
 
 # Input from .bash file which gives Interactions for a particular number of 
 # Alpha Helix
@@ -113,7 +114,7 @@ for k in dictPDB.keys():
     #import ipdb; ipdb.set_trace() # BREAKPOINT
     #Wr.write("%s\t%d\t%d\t%d\t%s\t%s\n"%(k,hlx,len(iString),len(dictPDB[k]),iString,T))
     print k,hlx,len(dictPDB[k]),''.join(pat),sepPat
-    binary_pattern = changeto1(sepPat)
-    Wr.write("%s\t%s\t%d\t%d\t%s\t%s\n"%(k[:4],k[4],hlx,len(dictPDB[k]),binary_pattern,sepPat))
+    pattern_binary = changeto1(sepPat)
+    Wr.write("%s\t%d\t%d\t%s\t%s\n"%(k,hlx,len(dictPDB[k]),pattern_binary,sepPat))
 
 Wr.close()

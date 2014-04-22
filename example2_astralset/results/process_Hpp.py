@@ -2,7 +2,7 @@
 from collections import Counter
 import sys
 
-# this program processes the raw output from chain-helix.c and used as
+# this program processes the raw output from chain-helix.txt and used as
 # input to extrPatDiff.py and extrModiPat.bash
 # It maps the SSEs to helix Number
 
@@ -14,10 +14,10 @@ def process(Hs,Hpp):
 		tmp = i.split()
 		pdbs.append(tmp[0])
 		if tmp[0] in PdbHlx.keys():
-			PdbHlx[tmp[0]].append(tmp[1])
+			PdbHlx[tmp[0]].append(tmp[2])   # change for mod_helix
 		else:
 			PdbHlx[tmp[0]] = []
-			PdbHlx[tmp[0]].append(tmp[1])
+			PdbHlx[tmp[0]].append(tmp[2])   # change for mod_helix
 
 	pdbsHlx = Counter(pdbs)
 	HpF = open(Hpp,'r').readlines()
@@ -34,8 +34,8 @@ def process(Hs,Hpp):
 		
 	return(pdbsHlx)
 
-Hs = sys.argv[1]
-Hpp = sys.argv[2]
+Hs = sys.argv[1]    # helix_shape.txt
+Hpp = sys.argv[2]   # helix_packing_pair_15.txt
 hlx = process(Hs,Hpp)
 Chlx = Counter(hlx.values())
 print Chlx,sum(Chlx.values())
