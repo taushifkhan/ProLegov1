@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Prolegov1 by taushifkhan</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Prolegov1</h1>
+        <p>Stores files and codes require to build contact string of alpha helices using chain-helix.c</p>
+
+        <p class="view"><a href="https://github.com/taushifkhan/ProLegov1">View the Project on GitHub <small>taushifkhan/ProLegov1</small></a></p>
+
+
+        <ul>
+          <li><a href="https://github.com/taushifkhan/ProLegov1/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/taushifkhan/ProLegov1/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/taushifkhan/ProLegov1">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>
+<a id="prolegov1" class="anchor" href="#prolegov1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>ProLegov1</h1>
+
+<p>Stores files and codes require to build contact string of alpha helices using chain-helix.c</p>
+
+<p>+++++++++|  Read me file for contact strin building and analysis  |++++++++++
+++++++++++++|  From structure selection --&gt; pattern  |+++++++++++++++++++++++
+++++++++++++++|  Date : 14-  April,2014  |+++++++++++++++++++++++++++++++++++</p>
+
+<ol>
+<li><p>Get fasta file of filtered PDB chains from rcsb with required structure
+quality.</p></li>
+<li><p>Run Cd-Hit to cluster them with sequence identity cut-off with following
+code: see readme_folder/cdhitOutfile</p></li>
+<li><p>Get cluser representative and run seondary structure module on the same.
+run python code extractRep.py 
+outfile has three tag lines :
+sP: Percentage of secondary structure
+sD: Residue detail of secondary structure
+sN: Number of secondary structure in each protein chain
+$ less sseDetail* | grep 'sN' &gt; sse_number*</p></li>
+<li>
+<p>Get pdb chains of required number of alpha helix content. min 3 max 10..
+Can be done by awk: 
+awk '{if ($6 &gt;=3 &amp;&amp; $6 &lt;=10) print $0}' sse_number_13_4_14 | wc -l
+$1047 
+awk '{if ($6 &gt;=3 &amp;&amp; $6 &lt;=10) print $1$2}' sse_number_13_4_14 </p>
+
+<blockquote>
+<p>pdb_chain_3_10_14APR_14</p>
+</blockquote>
+</li>
+<li><p>Get statistics of data use ,
+see 1. get_dataset_statistics.ipynb</p></li>
+<li>
+<p>Run helix interaction code to get sse contact patter.
+%%% Use c-helix which analyze contact on the basis of protein chains. The
+%nameing of secondary structure (serial helix number) can be obtain in
+%following step.</p>
+
+<ol>
+<li>Save output of the code helix_shape.txt and helix_packing_pair.txt in 
+flder as these are important results.</li>
+<li><p>run $ python process_hpp.py   &gt;
+OnlyInteraction. REMOVE the Last line
+$python process_Hpp.py helix_shape.txt helix_packing_pair.txt &gt; InteractionOnly</p></li>
+<li><p>Save Tab separted file of helix_shape.txt and into file helSpaceTab; Can
+be done by: awk '{print $1"\t"$2"\t"$3"\t"$4}' helix_shape.txt &gt; helSpaceTab</p></li>
+</ol>
+
+<p>4.run the bash script which in turn runs python script to get pattern:
+bash extrModiPat.bash InteractionOnly</p>
+
+<blockquote>
+<p>Out put pattern file will be saved in IntPatterns_ContactNear_added.txt</p>
+</blockquote>
+
+<p><strong><em>Example is in /home/taushif/alphaWork/compareDatasets/HppChain</em></strong>
+@ Use previously used c-helix code of chothia 
+@ get contact py python code in-house</p>
+</li>
+<li><p>Identify presence of sub-patterns and uniq patters per alpha helix content</p></li>
+<li>Tabulate</li>
+</ol>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/taushifkhan">taushifkhan</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
